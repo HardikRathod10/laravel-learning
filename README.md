@@ -1,2 +1,2 @@
-# laravel-learning
-Basic laravel concepts with documentation
+# Laravel Learnings
+###Setting up laravel application
