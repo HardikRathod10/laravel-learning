@@ -1,2 +1,2 @@
 # Laravel Learnings
-###Setting up laravel application
+### Setting up laravel application
